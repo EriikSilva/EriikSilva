@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Trabalhando com Frontend (angular) e Backend (mysql e node)
+- 🔭 Trabalhando com Desenvolvimento Web Frontend/Backend
 - 📫 Contato: eriklipe@gmail.com 
 - ⚡ Proativo
 
