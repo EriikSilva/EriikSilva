@@ -35,7 +35,3 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EriikSilva&show_icons=true&theme=radical"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriiksilva&layout=compact&langs_count=7&theme=synthwave"/>
 </div> 
-
-<div>
- <img align="right" src="https://github-profile-trophy.vercel.app/?username=eriiksilva&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-</div>
