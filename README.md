@@ -31,11 +31,12 @@
 
 ### Contato
 <div display:flex>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<span style="font-weigth:300">https://www.linkedin.com/in/eriiksilva/</span>
+<br>
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <span style="font-weigth:300">eriklipe@gmail.com</span>
-<br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<span style="font-weigth:300">https://www.linkedin.com/in/eriiksilva/</span>
+
 </div>
 
 
