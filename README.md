@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#fffff&height=120&section=footer"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff&size=35&center=true&vCenter=true&width=1000&lines=Erik+Felipe,+FullStack+Developer+;Angular,+Vue+e+React+;NestJs,+Prisma,+Postgres,+Oracle+e+SQL;Javascript+e+Typescript;)](https://git.io/typing-svg)
 
-## Erik Felipe 👋
 
 ###
 
